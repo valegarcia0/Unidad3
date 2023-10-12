@@ -12,11 +12,11 @@ import java.util.Scanner;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        Scanner  Scanner = new Scanner(System.in );
+        Scanner  lista = new Scanner(System.in );
         System.out.println("Introduce el numero ");
      
-        int lista = Scanner.nextInt(),num=0,num1=1, sum=1;
-        for (int a=1; a<=lista ; a++){
+        int practica2 = lista.nextInt(),num=0,num1=1, sum=1;
+        for (int a=1; a<=practica2 ; a++){
             System.out.println("La serie es " +num);
             
             sum=num+num1;
