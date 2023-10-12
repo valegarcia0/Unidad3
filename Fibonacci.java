@@ -3,13 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.mavenproject1;
+package com.mycompany.Fibonacci;
 import java.util.Scanner;
 /**
  *
  * @author Admin
  */
-public class Mavenproject1 {
+public class Fibonacci {
 
     public static void main(String[] args) {
         Scanner  lista = new Scanner(System.in );
